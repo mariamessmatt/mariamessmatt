@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Mariam</h1>
-<h3 align="center">A passionate CS student</h3>
+<h3 align="center">A CS student</h3>
 
 - 📫 How to reach me: mariamessmatt@gmail.com
 
